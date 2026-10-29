@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Zhang Qian — First Journey West / 张骞第一次西行",
+    "filename": "01-zhang-qian-v6.mp4",
+    "original_filename": "张骞-v6-统一配乐版.mp4",
+    "bytes": 55382395,
+    "sha256": "8f4f1f4bb2ffa444c978233d5b70fbfb111886cc4afc241d60d73a2ac1bc93ec",
+    "duration_seconds": 80,
+    "width": 1920,
+    "height": 1080,
+    "fps_approx": 60,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "sample_rate_hz": 44100,
+    "channels": 2
+  },
+  {
+    "title": "Yu Qian — Defending Beijing / 于谦与北京保卫战",
+    "filename": "02-yu-qian-v3.mp4",
+    "original_filename": "于谦-v3-千年之后配乐预览.mp4",
+    "bytes": 54725563,
+    "sha256": "6f2ac8e29888bf93f807f69b5d79a16f58be954f06a71b450063e0c5ed6b08a8",
+    "duration_seconds": 88,
+    "width": 1920,
+    "height": 1080,
+    "fps_approx": 60,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "sample_rate_hz": 44100,
+    "channels": 2
+  },
+  {
+    "title": "Shang Yang — Military Merit and Rank / 商鞅军功与爵位",
+    "filename": "03-shang-yang-v2.mp4",
+    "original_filename": "商鞅军功-v2-动作与叙事版.mp4",
+    "bytes": 75313894,
+    "sha256": "864a2774495207ddd8a80521df464fbded031786d26027e31fe3bd45cb62d037",
+    "duration_seconds": 96,
+    "width": 1920,
+    "height": 1080,
+    "fps_approx": 60,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "sample_rate_hz": 44100,
+    "channels": 2
+  }
+]

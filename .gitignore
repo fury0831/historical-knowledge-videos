@@ -1,0 +1,7 @@
+.DS_Store
+*.mp4
+*.flac
+*.mp3
+*.wav
+*.aac
+private/
