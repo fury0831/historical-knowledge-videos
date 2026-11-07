@@ -4,15 +4,21 @@ Five short, code-driven history visualizations by Fengrui Zhang, made with AI as
 
 Fengrui Zhang 的五集历史知识短视频，使用代码驱动画面并借助 AI 辅助制作。通过地图、人物行动、物件状态和场景关系解释历史事件与制度，画面以中文呈现。这是成片展示合集，不是制作源工程的开源仓库。
 
-**[Portfolio case / 双语案例](https://fury0831.github.io/projects/history-videos.html) · [Release and all downloads / 完整成片合集](https://github.com/fury0831/historical-knowledge-videos/releases)**
+**[Portfolio case / 双语案例](https://fury0831.github.io/projects/history-videos.html) · [All five videos / 五集完整合集](https://github.com/fury0831/historical-knowledge-videos/releases/latest)**
+
+## Complete collection · 五集完整合集
+
+The five episodes below form one collection, in viewing order. The [complete release page](https://github.com/fury0831/historical-knowledge-videos/releases/latest) also lists all five downloads together. Original asset URLs are retained so existing links keep working.
+
+以下五集按顺序组成同一合集；[统一下载页](https://github.com/fury0831/historical-knowledge-videos/releases/latest) 也集中列出全部五集。原视频下载地址保持不变，旧链接仍可使用。
 
 | Episode / 主题 | Duration / 时长 | Size / 大小 | Full video / 原始成片 |
 | --- | --- | --- | --- |
-| Zhang Qian — First Journey West / 张骞第一次西行 | 80 s | 52.82 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/01-zhang-qian-v6.mp4) |
-| Yu Qian — Defending Beijing / 于谦与北京保卫战 | 88 s | 52.19 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/02-yu-qian-v3.mp4) |
-| Shang Yang — Military Merit and Rank / 商鞅军功与爵位 | 96 s | 71.82 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/03-shang-yang-v2.mp4) |
-| Su Shi — Life in Poetry / 苏轼：把日子写进诗里 | 118 s | 78.45 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/04-su-shi-v5.mp4) |
-| Xuanzang — Journey West and Translation / 玄奘：西行与译经 | 118 s | 89.04 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/05-xuanzang-v2.mp4) |
+| 01 · Zhang Qian — First Journey West / 张骞第一次西行 | 80 s | 52.82 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/01-zhang-qian-v6.mp4) |
+| 02 · Yu Qian — Defending Beijing / 于谦与北京保卫战 | 88 s | 52.19 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/02-yu-qian-v3.mp4) |
+| 03 · Shang Yang — Military Merit and Rank / 商鞅军功与爵位 | 96 s | 71.82 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/03-shang-yang-v2.mp4) |
+| 04 · Su Shi — Life in Poetry / 苏轼：把日子写进诗里 | 118 s | 78.45 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/04-su-shi-v5.mp4) |
+| 05 · Xuanzang — Journey West and Translation / 玄奘：西行与译经 | 118 s | 89.04 MiB | [Download MP4 / 下载完整成片](https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/05-xuanzang-v2.mp4) |
 
 GitHub Release links download the original MP4 files; browser handling varies. Open a downloaded file in a compatible video player. There is no autoplay or embedded third-party player. Large video files are stored as Release assets, not in Git history.
 
