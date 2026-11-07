@@ -12,7 +12,9 @@
     "video_codec": "H.264",
     "audio_codec": "AAC",
     "sample_rate_hz": 44100,
-    "channels": 2
+    "channels": 2,
+    "release_tag": "v1.0",
+    "download_url": "https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/01-zhang-qian-v6.mp4"
   },
   {
     "title": "Yu Qian — Defending Beijing / 于谦与北京保卫战",
@@ -27,7 +29,9 @@
     "video_codec": "H.264",
     "audio_codec": "AAC",
     "sample_rate_hz": 44100,
-    "channels": 2
+    "channels": 2,
+    "release_tag": "v1.0",
+    "download_url": "https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/02-yu-qian-v3.mp4"
   },
   {
     "title": "Shang Yang — Military Merit and Rank / 商鞅军功与爵位",
@@ -42,6 +46,42 @@
     "video_codec": "H.264",
     "audio_codec": "AAC",
     "sample_rate_hz": 44100,
-    "channels": 2
+    "channels": 2,
+    "release_tag": "v1.0",
+    "download_url": "https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.0/03-shang-yang-v2.mp4"
+  },
+  {
+    "title": "Su Shi — Life in Poetry / 苏轼：把日子写进诗里",
+    "filename": "04-su-shi-v5.mp4",
+    "original_filename": "苏轼-v5-118秒-服饰与画面修订版.mp4",
+    "bytes": 82264891,
+    "sha256": "5e027683fa5ca3135709740207ec1d32e131376d7c9945546d17bd1fd6d07234",
+    "duration_seconds": 118,
+    "width": 1920,
+    "height": 1080,
+    "fps_approx": 60,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "release_tag": "v1.1",
+    "download_url": "https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/04-su-shi-v5.mp4"
+  },
+  {
+    "title": "Xuanzang — Journey West and Translation / 玄奘：西行与译经",
+    "filename": "05-xuanzang-v2.mp4",
+    "original_filename": "玄奘-v2-118秒-饮水修订版.mp4",
+    "bytes": 93363141,
+    "sha256": "2b2c3f8222fda779a9b50064be51920eac755a8e9605966e8b3ededdb8fe9474",
+    "duration_seconds": 118,
+    "width": 1920,
+    "height": 1080,
+    "fps_approx": 60,
+    "video_codec": "H.264",
+    "audio_codec": "AAC",
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "release_tag": "v1.1",
+    "download_url": "https://github.com/fury0831/historical-knowledge-videos/releases/download/v1.1/05-xuanzang-v2.mp4"
   }
 ]
